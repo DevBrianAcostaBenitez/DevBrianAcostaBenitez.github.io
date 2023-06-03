@@ -1,0 +1,6 @@
+[submodule "Ejercicios-HTML5-paso-1"]
+	path = Ejercicios-HTML5-paso-1
+	url = https://github.com/DevBrianAcostaBenitez/Ejercicios-HTML5-paso-1.git
+[submodule "HTML_y_CSS3"]
+	path = HTML_y_CSS3
+	url = https://github.com/DevBrianAcostaBenitez/HTML_y_CSS3
